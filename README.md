@@ -1,3 +1,9 @@
+# FIRE DETECTION AND PEOPLE COUNTING SYSTEM
+
+## Abstract
+
+
+
 Lack of surveillance and untimely arrival of firefighters can cause even a small fire to cause huge devastation in our daily lives. So, detecting the fire and alerting the officials as early as possible becomes a crucial task in controlling this issue. Thus, we have created an architecture using Raspberry Pi and a camera to detect fire and people trapped. The system consists of two modules: fire detection and people detection.
 
 In order to provide an accurate number of people trapped in the building find the location of trapped people and detect the fire using the Inception V3 algorithm which is embedded in the vision node, i.e., camera and Raspberry Pi. 
